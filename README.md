@@ -26,14 +26,17 @@
 ### 📤 Connect with Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-el-walid-mohamed" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-walid-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="mailto:eng.mohamedelwaleed@gmail.com" target="_blank">
+  <a href="/cdn-cgi/l/email-protection#34515a531a595b5c555951505158435558515150745359555d581a575b59" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://github.com/MohamedEl-Walid" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://www.kaggle.com/mohamedelwalid7" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="tel:+201124577323" target="_blank">
     <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="25"/>
@@ -212,5 +215,4 @@ Intelligent recommendation engine that performs cross-lingual sentiment analysis
 </div>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/MohamedEl-Walid">MohamedEl-Walid</a> | Let's build intelligent solutions together!</i>
-</p>
+  <i>⭐ From <a href="https://github.com/MohamedEl-Walid">MohamedEl-Walid</a> | L
