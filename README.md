@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-00307A?style=flat-square&logo=vercel&logoColor=white" style="height:32px;"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/your-cv-link/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1b9lTHynIWidnFlOLMc19QcIdcHNHWnZN/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px;"/>
   </a>
 </p>
